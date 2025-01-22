@@ -8,7 +8,7 @@ import Blog from './COMPONENTS/Blog';
 import Contact from './COMPONENTS/Contact';
 import Shop from './COMPONENTS/Shop';
 
-function App() {
+function App() {   
 
   return (
     <>
@@ -26,4 +26,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
